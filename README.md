@@ -4,7 +4,7 @@ hello world !
 
 ## Git commands
 
-**git commands I have learnde about folders**:
+**git commands I have learned about folders**:
 
 - `ls` > shows all visible folders
 - `ls -al`> shows all visible and hidden folders
@@ -12,4 +12,4 @@ hello world !
 
 # What you think about Git?
 
-I think git is really cool 😎
+I think Git is really cool 😎
