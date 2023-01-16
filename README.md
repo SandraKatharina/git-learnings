@@ -8,6 +8,3 @@
 - `ls -al`> shows all visible and hidden folders
 - `mkdir`> to create a new folder 
 
-# What you think about Git?
-
-I think Git is really cool 😎
