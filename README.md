@@ -1,6 +1,5 @@
 # Git Learnings
 
-hello world !
 
 ## Git commands
 
