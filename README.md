@@ -1,7 +1,5 @@
 # Git Learnings
 
-hello world !
-
 ## Git commands
 
 **git commands I have learned about folders**:
