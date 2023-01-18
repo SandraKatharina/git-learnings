@@ -1,0 +1,27 @@
+.container {
+    margin: 0 auto;
+    width: 50%;
+}
+div {
+    display: inline;
+    line-height: 20px;
+}
+.black {
+    background-color: black;
+
+}
+#content1 {
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+    float: left;
+    width: 45vw;
+    padding: 10px 10px 10px 10px;
+}
+#content2 {
+    background-color: white;
+    border: 1px solid black;
+    float: left;
+    width: 45vw;
+    padding: 10px 10px 10px 10px;
+}
